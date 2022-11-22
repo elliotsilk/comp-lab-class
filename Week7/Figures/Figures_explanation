@@ -1,0 +1,5 @@
+# This file is to describe what each .tga file represents:
+
+crystal_colab_aphafold-stack.tga shows the reported crystal structure, colab generated file, and alphafold crystal structure stacked as ribbon strcutures. The crystal strcuture is colored in pink, colab is purple, and alphafold is lime.
+
+The alphafold-beta.tga is colored by PLDDT score, where blue represents high PLDDT values, grey represents slight deviance, and red represents uncertainty relative to the crystal structure and colab files.
